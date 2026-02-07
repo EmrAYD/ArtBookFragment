@@ -14,8 +14,6 @@ import io.reactivex.rxjava3.core.Flowable;
 
 @Dao
 public interface ArtDao {
-    @Query("SELECT name,id FROM Art")
-    Flowable<List<Art>> getArtWithNameAndId();
     @Query("SELECT name,id,image FROM Art")
     Flowable<List<Art>> getArtWithNameIdImg();
 
