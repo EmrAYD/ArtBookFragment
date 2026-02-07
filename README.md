@@ -1,4 +1,4 @@
-# 🎨 ArtBookFragment (Kişiselleştirilmiş Proje)
+# 🎨 ArtBookFragment
 
 <details>
 <summary><strong>🇹🇷 Türkçe</strong></summary>
